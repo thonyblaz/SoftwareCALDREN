@@ -41,7 +41,7 @@ https://youtu.be/04qLaKoEHOo?si=0Knar-x6MxFXMnpE
 
 ## 📺Tutoriales
 Para aprovechar mejor el programa y evitar errores de interpretación, se recomienda revisar los tutoriales disponibles en la lista de reproducción:  
-https://www.youtube.com/watch?v=04qLaKoEHOo&list=PL_I59gUQuTk_wB13hNN9-kXaNovn6hr5V
+https://www.youtube.com/watch?v=04qLaKoEHOo&list=PL_I59gUQuTk8t3w09Po49GGp78JYjDFB_
 
 *(Sugerencia: revisa siempre las unidades de entrada y salida de cada pantalla antes de validar un diseño).*
 
