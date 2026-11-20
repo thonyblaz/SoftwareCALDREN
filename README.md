@@ -1,5 +1,5 @@
 # Software H-CALDREN 
-##ALCANCE, USO Y RESPONSABILIDAD
+## ⚠️ALCANCE, USO Y RESPONSABILIDAD
 
 H-CALDERN es un software desarrollado por el M.Sc.Ing. Anthony Jean Paul Blaz Lazo, especializado para el diseño hidrológico e hidráulico de obras de drenaje superficial en carreteras y vías urbanas. La aplicación está basada en metodologías reconocidas internacionalmente, incluyendo criterios de la FHWA (Federal Highway Administration), así como normativas y enfoques técnicos de distintos autores y reglamentos de ingeniería.
 El software ha sido validado mediante la aplicación en ejercicios prácticos y casos reales, logrando resultados consistentes y técnicamente adecuados. No obstante, el usuario asume la responsabilidad total sobre la interpretación, aplicación y uso de los resultados generados por el programa, los resultados generados deben ser considerados como una herramienta de apoyo. El autor y desarrollador del software no se hace responsable por el uso, interpretación, aplicación o consecuencias derivadas de los resultados obtenidos mediante el programa, ni por decisiones técnicas, económicas o de cualquier otra naturaleza que se adopten a partir de dichos resultados. La responsabilidad final sobre la verificación, criterio profesional y utilización de la información proporcionada por el software recae exclusivamente en el usuario.
